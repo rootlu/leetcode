@@ -64,37 +64,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="leetcode1.cpp" />
-    <ClCompile Include="leetcode107.cpp" />
-    <ClCompile Include="leetcode118.cpp" />
-    <ClCompile Include="leetcode119.cpp" />
-    <ClCompile Include="leetcode13.cpp" />
-    <ClCompile Include="leetcode141.cpp" />
-    <ClCompile Include="leetcode160.cpp" />
-    <ClCompile Include="leetcode169.cpp" />
-    <ClCompile Include="leetcode172.cpp" />
-    <ClCompile Include="leetcode18.cpp" />
-    <ClCompile Include="leetcode189.cpp" />
-    <ClCompile Include="leetcode19.cpp" />
-    <ClCompile Include="leetcode198.cpp" />
-    <ClCompile Include="leetcode203.cpp" />
-    <ClCompile Include="leetcode206.cpp" />
-    <ClCompile Include="leetcode209.cpp" />
-    <ClCompile Include="leetcode215.cpp" />
-    <ClCompile Include="leetcode216.cpp" />
-    <ClCompile Include="leetcode219.cpp" />
-    <ClCompile Include="leetcode235.cpp" />
-    <ClCompile Include="leetcode240.cpp" />
-    <ClCompile Include="leetcode26.cpp" />
-    <ClCompile Include="leetcode336.cpp" />
     <ClCompile Include="leetcode342.cpp" />
-    <ClCompile Include="leetcode344.cpp" />
-    <ClCompile Include="leetcode345.cpp" />
-    <ClCompile Include="leetcode53.cpp" />
-    <ClCompile Include="leetcode6.cpp" />
-    <ClCompile Include="leetcode66.cpp" />
-    <ClCompile Include="leetcode8.cpp" />
-    <ClCompile Include="leetcode88.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
