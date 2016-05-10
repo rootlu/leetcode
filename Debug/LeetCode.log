@@ -1,0 +1,86 @@
+﻿生成启动时间为 2016/5/10/星期二 10:44:36。
+     1>项目“E:\C++\Code\LeetCode\LeetCode.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt leetcode1.cpp leetcode107.cpp leetcode118.cpp leetcode119.cpp leetcode13.cpp leetcode141.cpp leetcode160.cpp leetcode169.cpp leetcode172.cpp leetcode18.cpp leetcode189.cpp leetcode19.cpp leetcode198.cpp leetcode203.cpp leetcode206.cpp leetcode209.cpp leetcode215.cpp leetcode216.cpp leetcode219.cpp leetcode235.cpp leetcode240.cpp leetcode26.cpp leetcode336.cpp leetcode344.cpp leetcode345.cpp leetcode53.cpp leetcode6.cpp leetcode66.cpp leetcode8.cpp leetcode88.cpp
+         leetcode88.cpp
+         leetcode8.cpp
+         leetcode66.cpp
+     1>e:\c++\code\leetcode\leetcode66.cpp(37): warning C4018: “<”: 有符号/无符号不匹配
+         leetcode6.cpp
+     1>e:\c++\code\leetcode\leetcode6.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\c++\code\leetcode\leetcode6.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+         leetcode53.cpp
+         leetcode345.cpp
+     1>e:\c++\code\leetcode\leetcode345.cpp(9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+         leetcode344.cpp
+         leetcode336.cpp
+         leetcode26.cpp
+     1>e:\c++\code\leetcode\leetcode26.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+         leetcode240.cpp
+         leetcode235.cpp
+     1>e:\c++\code\leetcode\leetcode235.cpp(15): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>e:\c++\code\leetcode\leetcode235.cpp(15): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\c++\code\leetcode\leetcode235.cpp(21): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>e:\c++\code\leetcode\leetcode235.cpp(21): error C2059: 语法错误:“}”
+     1>e:\c++\code\leetcode\leetcode235.cpp(22): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>e:\c++\code\leetcode\leetcode235.cpp(22): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\c++\code\leetcode\leetcode235.cpp(22): error C2086: “int TreeNode”: 重定义
+                 e:\c++\code\leetcode\leetcode235.cpp(15) : 参见“TreeNode”的声明
+     1>e:\c++\code\leetcode\leetcode235.cpp(22): error C2297: “*”: 非法，右操作数包含“int *”类型
+     1>e:\c++\code\leetcode\leetcode235.cpp(22): error C2065: “p”: 未声明的标识符
+     1>e:\c++\code\leetcode\leetcode235.cpp(22): error C2065: “q”: 未声明的标识符
+     1>e:\c++\code\leetcode\leetcode235.cpp(22): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+         leetcode219.cpp
+         leetcode216.cpp
+     1>e:\c++\code\leetcode\leetcode216.cpp(48): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\c++\code\leetcode\leetcode216.cpp(50): warning C4018: “<”: 有符号/无符号不匹配
+         leetcode215.cpp
+         leetcode209.cpp
+         leetcode206.cpp
+     1>e:\c++\code\leetcode\leetcode206.cpp(42): error C2084: 函数“ListNode *reverseList(ListNode *)”已有主体
+                 e:\c++\code\leetcode\leetcode206.cpp(20) : 参见“reverseList”的前一个定义
+     1>e:\c++\code\leetcode\leetcode206.cpp(52): error C2568: “=”: 无法解析函数重载
+                 e:\c++\code\leetcode\leetcode206.cpp(20): 可能是“ListNode *reverseList(ListNode *)”
+     1>e:\c++\code\leetcode\leetcode206.cpp(52): error C3861: “reverseList”:  找不到标识符
+     1>e:\c++\code\leetcode\leetcode206.cpp(60): error C2059: 语法错误:“}”
+     1>e:\c++\code\leetcode\leetcode206.cpp(60): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>e:\c++\code\leetcode\leetcode206.cpp(62): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>e:\c++\code\leetcode\leetcode206.cpp(62): error C2059: 语法错误:“}”
+     1>e:\c++\code\leetcode\leetcode206.cpp(64): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>e:\c++\code\leetcode\leetcode206.cpp(64): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+         leetcode203.cpp
+         leetcode198.cpp
+         leetcode19.cpp
+         leetcode189.cpp
+         正在生成代码...
+         正在编译...
+         leetcode18.cpp
+     1>e:\c++\code\leetcode\leetcode18.cpp(78): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\c++\code\leetcode\leetcode18.cpp(80): warning C4018: “<”: 有符号/无符号不匹配
+         leetcode172.cpp
+     1>e:\c++\code\leetcode\leetcode172.cpp(13): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+         leetcode169.cpp
+     1>e:\c++\code\leetcode\leetcode169.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\c++\code\leetcode\leetcode169.cpp(21): warning C4018: “>”: 有符号/无符号不匹配
+         leetcode160.cpp
+         leetcode141.cpp
+         leetcode13.cpp
+     1>e:\c++\code\leetcode\leetcode13.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+         leetcode119.cpp
+     1>e:\c++\code\leetcode\leetcode119.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+         leetcode118.cpp
+     1>e:\c++\code\leetcode\leetcode118.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\c++\code\leetcode\leetcode118.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+         leetcode107.cpp
+     1>e:\c++\code\leetcode\leetcode107.cpp(98): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\c++\code\leetcode\leetcode107.cpp(100): warning C4018: “<”: 有符号/无符号不匹配
+         leetcode1.cpp
+     1>e:\c++\code\leetcode\leetcode1.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\c++\code\leetcode\leetcode1.cpp(55): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+     1>e:\c++\code\leetcode\leetcode169.cpp(25): warning C4715: “majorityElement”: 不是所有的控件路径都返回值
+     1>已完成生成项目“E:\C++\Code\LeetCode\LeetCode.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:13.38
